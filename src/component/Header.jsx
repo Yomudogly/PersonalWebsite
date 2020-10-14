@@ -4,7 +4,7 @@ import { FiX, FiMenu } from "react-icons/fi";
 import Scrollspy from "react-scrollspy";
 
 const SocialShare = [
-  { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/khalnepes/" },
+  { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/yomudogly/" },
   { Social: <FaGithub />, link: "https://github.com/Yomudogly/" },
   { Social: <FaTelegram />, link: "https://telegram.me/yomudogly" },
 ];
